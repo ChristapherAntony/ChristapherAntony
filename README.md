@@ -6,6 +6,10 @@ Hi there 👋
 I am Christapher Antony , a MERN stack developer,creative and a developer who loves to create new innovative ideas and tools. 
 
 - 📫 contact me on christapher012@gmail.com
+
+[![](https://visitcount.itsvg.in/api?id=christapherantony&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <!-- 
 - 👀 I’m interested in being a part
 - 🌱 I’m currently learning ...
